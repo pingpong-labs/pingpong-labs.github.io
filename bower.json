@@ -1,0 +1,16 @@
+{
+  "name": "gravitano.github.io",
+  "version": "0.0.0",
+  "homepage": "https://gravitano.github.io",
+  "authors": [
+    "gravitano <gravitano16@gmail.com>"
+  ],
+  "description": "Gravitano Website",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3",
+    "showdown": "~0.3.1",
+    "font-awesome": "~4"
+  }
+}
